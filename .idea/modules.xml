@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MySQLTable/MySQLTable.iml" filepath="$PROJECT_DIR$/MySQLTable/MySQLTable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MySQLTableProject.iml" filepath="$PROJECT_DIR$/MySQLTableProject.iml" />
+    </modules>
+  </component>
+</project>
+
